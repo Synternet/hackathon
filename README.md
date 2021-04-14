@@ -43,6 +43,65 @@ You can use Syntropy Stack — a collection of tech and tools — to build on th
 
 ![stack](https://user-images.githubusercontent.com/5236121/114748535-b2f5c200-9d5a-11eb-8615-cc8811385d10.png)
 
+## Challenges
+
+### Blockchain applications/integrations
+
+Although blockchains are touted as decentralized software, many nodes in most of the blockchains run on the same cloud service providers like Amazon, Azure and others. In order to further decentralization, it is necessary to make the setup of a secure node infrastructure and interoperable blockchains as easy as possible.
+
+- Node infrastructure (staking service)
+  - Create a Staking-as-a-Service application that can automatically set up nodes for nominators via the Syntropy Network
+- Interoperability
+  - Setup automatically orchestrated infrastructure for blockchain nodes, including monitoring, alerting, etc.
+- Tokenization/NFT
+  - Create a protocol that uses NFTs as digital twins for physical infrastructure (managing, transferring infrastructure, etc.)
+- Dapps
+- Protocols
+- Open-source contribution to Syntropy
+- Expand our already [existing integrations](https://github.com/SyntropyNet/syntropy-blockchain-integrations) on our GitHub
+
+### Gaming applications
+
+The eSports scene is plagued with high ping and malicious attackers. To dwarf attacks and minimize latency, the Syntropy network can be used as an overlay between the players and the game servers. 
+
+- Create an app for e-sport
+  - Make a web application like [FaceIT](https://www.faceit.com/) that can organize competitive matches between two teams which would be played over the Syntropy network
+- Create something for tournaments
+  - Create an application that can automatically orchestrate tournament game servers and dispatch connection info to every participating player of the opposing teams
+- Create something for server owner.
+  - Create an application that automatically orchestrates Minecraft servers that communicate by the BungeeCord proxy over the Syntropy network
+- Open-source contribution to Syntropy
+- Expand our already existing Syntropy [gaming integrations](https://github.com/SyntropyNet/syntropy-gaming-integrations) on our GitHub
+
+### IoT applications
+
+As the number of IoT devices continues to grow at an exponential rate it is getting harder and harder to manage them easily and securely. The Syntropy Stack proposes an easy way to ensure stable and secure connectivity between IoT devices and their controllers without a hassle.
+
+- Create something with Raspberry Pi
+  - Design a Raspberry Pi image that would have the Syntropy Agent installed by default, controlled via the Cockpit service
+- Smart-home
+  - Create an application for zigbee with Syntropy Agent for communication between different applications
+  - Create an application for an automated Smart Home system installation
+  - Create a Zigbee/MQTT/etc. Proxy for communication between IoT devices over the Syntropy Network
+- Make use of routers agent
+  - Port the Syntropy Agent to OpenWRT or any other internet router distribution
+- Geeky stuff
+  - Create a Raspberry Pi Wi-Fi Syntropy gateway
+- Open-source contribution to Syntropy
+- Secure edge computing
+
+### Software applications
+There are many latency-critical applications like video streaming, video chatting, virtual private networks, etc. Show us how you would use the Syntropy Stack and its network in order to minimize latency and ensure the security of your users’ data.
+- Secure network
+- Next generation VPN
+  - Create a white-label VPN that uses the Syntropy Stack for connection orchestration
+- Bots
+  - Create a Slack bot that can control your Syntropy Network (endpoint, connection management, status, etc.)
+- Infrastructure automation
+- Applications
+- [Open-source contribution](https://github.com/SyntropyNet) to Syntropy
+- Port the Syntropy Agent to platforms like FreeBSD
+
 ## Judging
 We have leaders from crypto, big tech, and more reviewing submissions. More details soon.
 
