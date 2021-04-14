@@ -2,7 +2,8 @@
 
 ## Come build on the next-gen internet.
 
-- Hackathon Timeline: May 1 through May 30
+- Registration deadline: May 13, 2021
+- Hackathon dates: May 14 through May 28
 - Type: Online and global
 - Registration form: [Click Here](https://form.typeform.com/to/oURrUdH9)
 - More details: Monitor this page as more info is released
