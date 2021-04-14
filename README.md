@@ -21,25 +21,25 @@ The dawn of the DeWeb movement is upon us. Right now, hundreds of teams, project
 
 When large numbers of dedicated people work in unison, amazing things happen. It’s time we bring these parties together for a multi-week, hyper-focused effort to accelerate the world’s adoption of DeWeb technologies.
 
-Introducing the 2021 DeWeb Hackathon, presented by [https://www.syntropynet.com/](Syntropy).
+Introducing the 2021 DeWeb Hackathon, presented by [Syntropy](https://www.syntropynet.com/).
 
 ## Get Started
 
-You can use Syntropy Stack — a collection of tech and tools — to build on the next-gen internet today. Self-service is available [https://www.syntropystack.com/](here).
+You can use Syntropy Stack — a collection of tech and tools — to build on the next-gen internet today. Self-service is available [here](https://www.syntropystack.com/).
 
 ### Main resources
-- [https://docs.syntropystack.com/docs](Syntropy Stack Documentation)
-- [https://docs.syntropystack.com/docs/what-is-syntropy-stack](What is the Syntropy Stack?)
-- [https://docs.syntropystack.com/docs/what-is-syntropy-agent](What is the Syntropy Agent?)
-- [https://docs.syntropystack.com/docs/getting-started](Get started with Syntropy Stack)
-- [https://docs.syntropystack.com/docs/start-syntropy-agent](Install Syntropy Agent)
-- [https://docs.syntropystack.com/docs/create-network](Create a Network)
+- [Syntropy Stack Documentation](https://docs.syntropystack.com/docs)
+- [What is the Syntropy Stack?](https://docs.syntropystack.com/docs/what-is-syntropy-stack)
+- [What is the Syntropy Agent?](https://docs.syntropystack.com/docs/what-is-syntropy-agent)
+- [Get started with Syntropy Stack](https://docs.syntropystack.com/docs/getting-started)
+- [Install Syntropy Agent](https://docs.syntropystack.com/docs/start-syntropy-agent)
+- [Create a Network](https://docs.syntropystack.com/docs/create-network)
 ### Other Resources
-- [https://medium.com/syntropynet/tagged/syntropy-dev](Developer Medium)
-- [https://github.com/SyntropyNet](GitHub)
-- [https://hub.docker.com/u/syntropynet](DockerHub)
-- [https://pypi.org/user/SyntropyNet/](PyPI)
-- [https://galaxy.ansible.com/syntropynet](Galaxy)
+- [Developer Medium](https://medium.com/syntropynet/tagged/syntropy-dev)
+- [GitHub](https://github.com/SyntropyNet)
+- [DockerHub](https://hub.docker.com/u/syntropynet)
+- [PyPI](https://pypi.org/user/SyntropyNet/)
+- [Galaxy](https://galaxy.ansible.com/syntropynet)
 
 ![stack](https://user-images.githubusercontent.com/5236121/114748535-b2f5c200-9d5a-11eb-8615-cc8811385d10.png)
 
@@ -52,7 +52,7 @@ Total prize pool amount of $150k. Breakdown of prizes and competitions arriving 
 ![competitions](https://user-images.githubusercontent.com/5236121/114748612-c30da180-9d5a-11eb-926c-cb8ed2bec30f.png)
 
 ## Discord
-Join our [https://discord.gg/jqZur5S3KZ](Discord) to form a team, ask questions, or submit proposals.
+Join our [Discord](https://discord.gg/jqZur5S3KZ) to form a team, ask questions, or submit proposals.
 
 ## Legal Disclaimer
 
