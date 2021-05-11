@@ -44,6 +44,17 @@ You can use Syntropy Stack — a collection of tech and tools — to build on th
 
 ![stack](https://user-images.githubusercontent.com/5236121/114748535-b2f5c200-9d5a-11eb-8615-cc8811385d10.png)
 
+## Judges
+
+- Jonas Simanavicius (CTO at Syntropy)
+- Roman Pacewicz (Former Chief Product Officer at AT&T)
+- Meltem Demirors (CSO at CoinShares)
+- Joe Weinman (Former Executive at HP, Bell Labs, AT&T)
+- William B. Norton (Co-founder at Syntropy)
+- Daniel Schwartzkopff (CEO of Invictus Capital)
+- Balder Bomans (CIO of Maven Capital)
+- Shawn Hakl (Partner at Microsoft, former SVP at Verizon)
+
 ## Challenges
 
 ### Blockchain applications/integrations
