@@ -121,6 +121,12 @@ There are many latency-critical applications like video streaming, video chattin
 - Examine data from various angles to see hidden trends and/or opportunities
 - Create visualisations
 
+### UI/UX track
+At Syntropy we put a great focus on making our applications look great and be user friendly. Show us how you imagine future iterations of Syntropy software. Create Mock-Ups / Wireframes / Designs.
+- Make Syntropy Mobile Friendly
+- Design Dashbards that would extend user experience and provide valueable information.
+- Functionality extensions
+
 ## Judging
 We have leaders from crypto, big tech, and more reviewing submissions. More details soon.
 
