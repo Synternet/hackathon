@@ -2,7 +2,6 @@
 
 ## Come build on the next-gen internet.
 
-- Registration deadline: June 6th 2021
 - Hackathon dates: June 7 through June 21
 - Type: Online and global
 - Registration form: [Click Here](https://form.typeform.com/to/oURrUdH9)
