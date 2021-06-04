@@ -115,7 +115,7 @@ There are many latency-critical applications like video streaming, video chattin
 
 ### DARP Data analysis
 [DARP](https://darp.syntropystack.com/) is the decentralized autonomous routing protocol that Syntropy uses to understand and analyze the internet's pathways. DARP nodes constantly share latency information, creating a global intelligence layer for internet pathways. 
-- Exploratory data analysis
+- Exploratory data analysis of [DARP OpenData](https://opendata.syntropystack.com/)
 - Apply data science techniques, such as machine learning, statistical modeling, and artificial intelligence to find best routing paths over longer period of time
 - Examine data from various angles to see hidden trends and/or opportunities
 - Create visualisations
