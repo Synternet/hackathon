@@ -123,7 +123,7 @@ There are many latency-critical applications like video streaming, video chattin
 ### UI/UX track
 At Syntropy we put a great focus on making our applications look great and be user friendly. Show us how you imagine future iterations of Syntropy software. Create Mock-Ups / Wireframes / Designs.
 - Make Syntropy Mobile Friendly
-- Design Dashboards that would extend user experience and provide valueable information.
+- Design Dashboards that would extend user experience and provide valuable information.
 - Functionality extensions
 
 ## Judging
